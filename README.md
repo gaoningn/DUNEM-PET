@@ -59,6 +59,3 @@ Mean over the 20 test slices:
 | Head   | DUNEM-PET | 0.9732 | 30.652    | 0.0294 |
 | Thorax | OSEM      | 0.8528 | 26.176    | 0.0492 |
 | Thorax | DUNEM-PET | 0.9148 | 29.704    | 0.0328 |
-
-GPU back-projection is not bit-wise deterministic, so repeated runs may differ slightly in the
-last printed digit.
